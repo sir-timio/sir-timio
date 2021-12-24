@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sir-timio
 - 👀 I’m interested in machine learning and data science.
-- 🌱 I’m currently learning math basics of ml.
+- 🌱 I’m currently work with computer vision and HTR.
 - 📫 How to reach me 
             mail: t-ionov@list.ru
             telegram: t.me/sir_timio
