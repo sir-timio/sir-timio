@@ -3,7 +3,6 @@
 - 🌱 I’m currently work with computer vision and HTR.
 - 📫 How to reach me 
             mail: t-ionov@list.ru
-            telegram: t.me/sir_timio
 
 <!---
 sir-timio/sir-timio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
