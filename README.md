@@ -6,7 +6,7 @@
 
 
 Hacks:
-- (Всероссийский чемпионат "Цифровой прорыв")[https://lk.hacks-ai.ru/758467/champ/885303] 1st place (1/168)
+- [Всероссийский чемпионат "Цифровой прорыв"](https://lk.hacks-ai.ru/758467/champ/885303) 1st place (1/168)
 - Ivision 2021 2nd place among juniors (2/30)
 - AutoNLP Банк Точка х ИТМО 2nd place (2/20)
 <!---
