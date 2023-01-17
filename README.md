@@ -41,8 +41,11 @@
 <!--- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sir-timio)](https://github.com/sir-timio/github-readme-stats) --->
 
 ### 🤝 How to reach me 
-- mail: t-ionov@list.ru
-- tg: @sir_timio
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t-ionov@list.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sir_timio)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sirtimio)
+
 <!---
 sir-timio/sir-timio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
