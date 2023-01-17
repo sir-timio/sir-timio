@@ -36,7 +36,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ## 🥋 Codewars stat
-![image](https://www.codewars.com/users/sir-timio/badges/large)
+![image](https://www.codewars.com/users/sir-timio/badges/large?theme=light)
  
 <!--- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sir-timio)](https://github.com/sir-timio/github-readme-stats) --->
 
