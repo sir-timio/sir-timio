@@ -3,6 +3,8 @@
 - 🌱 I’m currently work with computer vision and HTR.
 - 📫 How to reach me 
             mail: t-ionov@list.ru
+           
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sir-timio)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Hacks:
