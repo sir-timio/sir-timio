@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Timur Ionov](@sir-timio)
+# 👋 Hi, I’m Timur Ionov
 ## I’m computer vision, NLP and time series ML engineer.
 ## 👨🏻‍💻 I’m currently working on
 - Handwritten and typed text recognintion
