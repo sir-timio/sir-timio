@@ -38,7 +38,7 @@
 ## 🥋 Codewars stat
 ![image](https://www.codewars.com/users/sir-timio/badges/large)
  
-<!--- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sir-timio)](https://github.com/sir-timio/github-readme-stats) ---!>
+<!--- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sir-timio)](https://github.com/sir-timio/github-readme-stats) --->
 
 ### 🤝 How to reach me 
 - mail: t-ionov@list.ru
