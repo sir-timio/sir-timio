@@ -11,10 +11,10 @@
 - NLP
 - Transformers
 
-## 🏆 Сompetitions:
-- "Digital breakthrough" 🥇(1/168)
-- "Ivision" 🥈 (2/30)
-- "AutoNLP" 🥈 (2/20)
+## 🏆 Сompetitions & hacks:
+- "Digital breakthrough" - prediction of mail loss 🥇(1/168)
+- "Ivision" - parking place detection service 🥈 (2/30)
+- "AutoNLP" - automl nlp multitask 🥈 (2/20)
 
 
 ## 🛠 Technical Skills
