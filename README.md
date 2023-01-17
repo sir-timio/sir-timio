@@ -1,6 +1,13 @@
-- 👋 Hi, I’m @sir-timio
-- 👀 I’m interested in machine learning and data science.
-- 🌱 I’m currently work with computer vision and HTR.
+# 👋 Hi, I’m @sir-timio
+<!-- ## 👀 I’m interested in machine learning and data science. -->
+## 🌱 I’m currently working on.
+- Handwritten and typed text recognintion
+- Text time series decoding
+- Text detection
+- Ordering objects on scene
+- Sound classification on optical fiber
+- Location determination on optical fiber
+
 - 📫 How to reach me 
             mail: t-ionov@list.ru
            
