@@ -17,7 +17,7 @@
 - "AutoNLP" - automl nlp multitask 🥈 (2/20)
 
 ## 📚 Courses:
-- [Math & python for data analysis](https://coursera.org/share/d4718382b3faade206958ebcb38ff34b) (by MIPT & Yandex)
+- [Math & python for data analysis](https://coursera.org/share/490fe73eb42d75c6d735c55edee5c7e1) (by MIPT & Yandex)
 - [Introduction to ML](https://coursera.org/share/3985afe57384d757ac196aa05638e00b) (by HSE and Yandex)
 - MTS.Teta Summer school
 
