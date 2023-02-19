@@ -8,18 +8,23 @@
 
 ## 🔬 I’m currently learning
 - Segmentation
-- NLP
 - Transformers
 
 ## 🏆 Сompetitions & hacks:
-- "Digital breakthrough" - prediction of mail loss 🥇(1/168)
-- "Ivision" - parking place detection service 🥈 (2/30)
-- "AutoNLP" - automl nlp multitask 🥈 (2/20)
+- ["Digital breakthrough"](https://github.com/sir-timio/pochta) - Prediction of mail loss, antifraud 🥇(1/168)
+- ["Ivision"](https://github.com/Perpure/Parking-Recognition) - Parking detection service and chat bot 🥈 (2/30)
+- ["AutoNLP"](https://github.com/sir-timio/nlp_itmo) - AutoML NLP multitask 🥈 (2/20)
+- ["VK Cup"](https://github.com/sir-timio/vk_cup) - NLP classification (48/470) and RecSys (32/256)
 
 ## 📚 Courses:
 - [Math & python for data analysis](https://coursera.org/share/490fe73eb42d75c6d735c55edee5c7e1) (by MIPT & Yandex)
 - [Introduction to ML](https://coursera.org/share/3985afe57384d757ac196aa05638e00b) (by HSE and Yandex)
 - MTS.Teta Summer school
+
+## 🐈 Pets:
+- [NN from scratch](https://github.com/sir-timio/neural_labs) 
+- [OCR mobile app on flutter](https://github.com/sir-timio/mobile-ocr)
+- [Tg bot HTR](https://github.com/sir-timio/HTR)
 
 ## 🛠 Technical Skills
 
