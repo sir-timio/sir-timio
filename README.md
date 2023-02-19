@@ -6,10 +6,6 @@
 - Generative adversarial networks (GAN)
 - Sound classification and location determination on optical fiber
 
-## 🔬 I’m currently learning
-- Segmentation
-- Transformers
-
 ## 🏆 Сompetitions & hacks:
 - ["Digital breakthrough"](https://github.com/sir-timio/pochta) - Prediction of mail loss, antifraud 🥇(1/168)
 - ["Ivision"](https://github.com/Perpure/Parking-Recognition) - Parking detection service and chat bot 🥈 (2/30)
@@ -19,7 +15,7 @@
 ## 📚 Courses:
 - [Math & python for data analysis](https://coursera.org/share/490fe73eb42d75c6d735c55edee5c7e1) (by MIPT & Yandex)
 - [Introduction to ML](https://coursera.org/share/3985afe57384d757ac196aa05638e00b) (by HSE and Yandex)
-- MTS.Teta Summer school
+- [MTS.Teta Summer school](https://github.com/sir-timio/sir-timio/blob/main/diplomas/courses/mts_theta.pdf)
 
 ## 🐈 Pets:
 - [NN from scratch](https://github.com/sir-timio/neural_labs) 
