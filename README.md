@@ -21,6 +21,7 @@
 - [NN from scratch](https://github.com/sir-timio/neural_labs) 
 - [OCR mobile app on flutter](https://github.com/sir-timio/mobile-ocr)
 - [Tg bot HTR](https://github.com/sir-timio/HTR)
+- [Web denoiser and trancriber](https://github.com/sir-timio/web-denoiser)
 
 ## 🛠 Technical Skills
 
