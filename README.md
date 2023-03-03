@@ -4,7 +4,7 @@
 - Handwritten and typed text recognintion
 - Text detection
 - Generative adversarial networks (GAN)
-- Sound classification and location determination on optical fiber
+- Signal processing on optical fiber, denoising
 
 ## 🏆 Сompetitions & hacks:
 - ["Digital breakthrough"](https://github.com/sir-timio/pochta) - Prediction of mail loss, antifraud 🥇(1/168)
