@@ -11,7 +11,7 @@
 - ["Ivision"](https://github.com/Perpure/Parking-Recognition) - Parking detection service and chat bot 🥈 (2/30)
 - ["AutoNLP"](https://github.com/sir-timio/nlp_itmo) - AutoML NLP multitask by ITMO 🥈 (2/20)
 - ["VK Cup"](https://github.com/sir-timio/vk_cup) - NLP classification (48/470) and RecSys (32/256)
-- ["ITMO MegaSchool"](https://github.com/sir-timio/web-denoiser) - Web denoiser and trancriber
+- ["ITMO MegaSchool"](https://github.com/sir-timio/web-denoiser) - audio denoiser and trancriber
 
 ## 📚 Courses:
 - [Math & python for data analysis](https://coursera.org/share/490fe73eb42d75c6d735c55edee5c7e1) (by MIPT & Yandex)
