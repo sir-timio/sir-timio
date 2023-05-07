@@ -22,7 +22,7 @@
 - [OCR mobile app on flutter](https://github.com/sir-timio/mobile-ocr)
 - [Tg bot HTR](https://github.com/sir-timio/HTR)
 - [Audio denoiser](https://github.com/sir-timio/web-denoiser)
-
+- [Bitmap editor](https://github.com/bmstu-iu9/utp2020-7-paint)
 ## 🛠 Technical Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
