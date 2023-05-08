@@ -8,7 +8,7 @@
 
 ## 🏆 Сompetitions & hacks:
 - ["Digital breakthrough"](https://github.com/sir-timio/pochta) - Prediction of mail loss, antifraud 🥇(1/168)
-- ["Ivision"](https://github.com/Perpure/Parking-Recognition) - Parking detection service and chat bot 🥈 (2/15)
+- ["Ivision"](https://github.com/Perpure/Parking-Recognition) - Parking detection service and chat bot 🥈 (2/30)
 - ["AutoNLP"](https://github.com/sir-timio/nlp_itmo) - AutoML NLP multitask by ITMO 🥈 (2/21)
 - ["VK Cup"](https://github.com/sir-timio/vk_cup) - NLP classification (48/470) and RecSys (32/256)
 
