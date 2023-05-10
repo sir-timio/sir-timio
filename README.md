@@ -4,7 +4,6 @@
 - Handwritten and typed text recognintion
 - Text detection
 - Speech enhancement
-- Signal processing on optical fiber, noise classification
 
 ## 🏆 Сompetitions & hacks:
 - ["Digital breakthrough"](https://github.com/sir-timio/pochta) - Prediction of mail loss, antifraud 🥇(1/168)
