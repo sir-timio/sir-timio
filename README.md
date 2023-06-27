@@ -10,6 +10,7 @@
 - ["Ivision"](https://github.com/Perpure/Parking-Recognition) - Parking detection service and chat bot 🥈 (2/30)
 - ["AutoNLP"](https://github.com/sir-timio/nlp_itmo) - AutoML NLP multitask by ITMO 🥈 (2/21)
 - ["VK Cup"](https://github.com/sir-timio/vk_cup) - NLP classification (48/470) and RecSys (32/256)
+- ["My First Data Project"](https://github.com/sir-timio/speech-denoiser) winner 🥇
 
 ## 📚 Courses:
 - [Math & python for data analysis](https://coursera.org/share/490fe73eb42d75c6d735c55edee5c7e1) (by MIPT & Yandex)
@@ -20,7 +21,7 @@
 - [NN from scratch](https://github.com/sir-timio/neural_labs) 
 - [OCR mobile app on flutter](https://github.com/sir-timio/mobile-ocr)
 - [Tg bot HTR](https://github.com/sir-timio/HTR)
-- [Audio denoiser](https://github.com/sir-timio/web-denoiser)
+- [Audio denoiser](https://github.com/sir-timio/speech-denoiser)
 - [Bitmap editor](https://github.com/bmstu-iu9/utp2020-7-paint)
 ## 🛠 Technical Skills
 
