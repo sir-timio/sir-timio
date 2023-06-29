@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Timur Ionov
 ## I’m computer vision, NLP and time series ML engineer.
+## Author of @[ai_minds](https://t.me/ai_minds).
+
 ## 👨🏻‍💻 I’m currently working on
 - Handwritten and typed text recognintion
 - Text detection
