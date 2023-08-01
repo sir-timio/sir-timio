@@ -8,9 +8,10 @@
 - Speech enhancement
 
 ## 🏆 Сompetitions & hacks:
-- ["Digital breakthrough"](https://github.com/sir-timio/pochta) - Prediction of mail loss, antifraud 🥇(1/168)
-- ["Ivision"](https://github.com/Perpure/Parking-Recognition) - Parking detection service and chat bot 🥈 (2/30)
-- ["AutoNLP"](https://github.com/sir-timio/nlp_itmo) - AutoML NLP multitask by ITMO 🥈 (2/21)
+- 🥇 ["Digital breakthrough"](https://github.com/sir-timio/pochta) - Prediction of mail loss, antifraud (1/168)
+- 🥈 ["Ivision"](https://github.com/Perpure/Parking-Recognition) - Parking detection service and chat bot (2/30)
+- 🥈 ["AutoNLP"](https://github.com/sir-timio/nlp_itmo) - AutoML NLP multitask by ITMO (2/21)
+- 🥉 ["HuBMAP"](https://www.kaggle.com/competitions/hubmap-hacking-the-human-vasculature) - Segment instances of microvascular structures (54/1064)
 - ["VK Cup"](https://github.com/sir-timio/vk_cup) - NLP classification (48/470) and RecSys (32/256)
 - ["My First Data Project"](https://github.com/sir-timio/speech-denoiser) winner 🥇
 
