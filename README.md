@@ -1,11 +1,12 @@
 # 👋 Hi, I’m Timur Ionov
 ## I’m computer vision, NLP and time series ML engineer.
-## Kaggle expert
+## [Kaggle expert](https://www.kaggle.com/sirtimio)
+
 ## Author of @[ai_minds](https://t.me/ai_minds).
 
 ## 👨🏻‍💻 I’m currently working on
-- Handwritten and typed text recognintion
-- Text detection
+- Text recognintion
+- Layout parsing
 - Speech enhancement
 
 ## 🏆 Сompetitions & hacks:
@@ -13,7 +14,7 @@
 - 🥈 ["Ivision"](https://github.com/Perpure/Parking-Recognition) - Parking detection service and chat bot (2nd of 30)
 - 🥈 ["AutoNLP"](https://github.com/sir-timio/nlp_itmo) - AutoML NLP multitask by ITMO (2nd of 21)
 - 🥉 ["HuBMAP"](https://www.kaggle.com/code/sirtimio/infer-yolov8-tta-wbf-55th-place)@kaggle - Segment instances of microvascular structures (54th of 1064)
-- 🥉 ["ICR"](https://www.kaggle.com/code/sirtimio/bronze-solution-0-4-lb)@kaggle - Identifying Age-Related Conditions (376th of 6700)
+- 🥉 ["ICR"](https://www.kaggle.com/code/sirtimio/bronze-solution-0-4-lb)@kaggle - Identifying Age-Related Conditions (361th of 6430)
 - ["VK Cup"](https://github.com/sir-timio/vk_cup) - NLP classification (48th of 470) and RecSys (32th of 256)
 - 🥇 ["My First Data Project"](https://github.com/sir-timio/speech-denoiser) project winner 
 
