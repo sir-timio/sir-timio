@@ -16,7 +16,7 @@
 - 🥉 ["HuBMAP"](https://www.kaggle.com/code/sirtimio/infer-yolov8-tta-wbf-55th-place)@kaggle - Segment instances of microvascular structures (54th of 1064)
 - 🥉 ["ICR"](https://www.kaggle.com/code/sirtimio/bronze-solution-0-4-lb)@kaggle - Identifying Age-Related Conditions (361th of 6430)
 - ["VK Cup"](https://github.com/sir-timio/vk_cup) - NLP classification (48th of 470) and RecSys (32th of 256)
-- 🥇 ["My First Data Project"](https://github.com/sir-timio/speech-denoiser) project winner 
+- 🥇 ["My First Data Project"](https://github.com/sir-timio/speech-denoiser) - Speech enhancement project winner 
 
 ## 📚 Courses:
 - [Math & python for data analysis](https://coursera.org/share/490fe73eb42d75c6d735c55edee5c7e1) (by MIPT & Yandex)
