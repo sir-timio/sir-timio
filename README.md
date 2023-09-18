@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Timur Ionov
-## I’m CV, OCR and NLP ML engineer. I'm also a Kaggle expert and author of @[ai_minds](https://t.me/ai_minds) channel.
+## I’m CV, OCR and NLP ML engineer. I'm also a [Kaggle expert](https://www.kaggle.com/sirtimio) and author of @[ai_minds](https://t.me/ai_minds) channel.
 
 ## 👨🏻‍💻 I’m currently working on
 - Text recognintion
