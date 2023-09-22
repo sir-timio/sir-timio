@@ -15,17 +15,19 @@
 - ["VK Cup"](https://github.com/sir-timio/vk_cup) - NLP classification (48th of 470) and RecSys (32th of 256)
 - 🥇 ["My First Data Project"](https://github.com/sir-timio/speech-denoiser) - Speech enhancement project winner 
 
+## 🐈 Pets:
+- [Real-time speech denoiser](https://github.com/sir-timio/speech-denoiser)
+- [NN from scratch](https://github.com/sir-timio/neural_labs)
+- [OCR/HTR mobile app on flutter](https://github.com/sir-timio/mobile-ocr)
+- [Tg bot HTR with train cycle](https://github.com/sir-timio/HTR)
+- [Bitmap editor](https://github.com/bmstu-iu9/utp2020-7-paint)
+
+  
 ## 📚 Courses:
 - [Math & python for data analysis](https://coursera.org/share/490fe73eb42d75c6d735c55edee5c7e1) (by MIPT & Yandex)
 - [Introduction to ML](https://coursera.org/share/3985afe57384d757ac196aa05638e00b) (by HSE and Yandex)
 - [MTS.Teta Summer school](https://github.com/sir-timio/sir-timio/blob/main/diplomas/courses/mts_theta.pdf)
 
-## 🐈 Pets:
-- [NN from scratch](https://github.com/sir-timio/neural_labs) 
-- [OCR mobile app on flutter](https://github.com/sir-timio/mobile-ocr)
-- [Tg bot HTR](https://github.com/sir-timio/HTR)
-- [Audio denoiser](https://github.com/sir-timio/speech-denoiser)
-- [Bitmap editor](https://github.com/bmstu-iu9/utp2020-7-paint)
 ## 🛠 Technical Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
