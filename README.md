@@ -12,6 +12,7 @@
 - 🥈 ["Ivision"](https://github.com/Perpure/Parking-Recognition) - Parking detection service and chat bot
 - 🥈 ["AutoNLP"](https://github.com/sir-timio/nlp_itmo) - AutoML NLP multitask by ITMO
 - 🥉 ["HuBMAP"](https://www.kaggle.com/code/sirtimio/infer-yolov8-tta-wbf-55th-place)@kaggle - Segment instances of microvascular structures (54th of 1064)
+- 🥉 ["RSNA 2023"](https://www.kaggle.com/competitions/rsna-2023-abdominal-trauma-detection/overview)@kaggle - Abdominal trauma detection (64th of 1123)
 - 🥉 ["ICR"](https://www.kaggle.com/code/sirtimio/bronze-solution-0-4-lb)@kaggle - Identifying Age-Related Conditions (361th of 6430)
 - ["VK Cup"](https://github.com/sir-timio/vk_cup) - NLP classification (48th of 470) and RecSys (32th of 256)
 - 🥇 ["My First Data Project"](https://github.com/sir-timio/speech-denoiser) - Speech enhancement project winner 
