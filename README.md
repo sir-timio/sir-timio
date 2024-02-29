@@ -3,8 +3,8 @@
 
 ## 👨🏻‍💻 I’m currently working on
 - RAG
-- text search
-- 
+- Text search
+
 ## 🏆 Сompetitions & hacks:
 - 🥇 ["Digital breakthrough 2022"](https://github.com/sir-timio/pochta) championship - Prediction of mail loss, antifraud
 - 🥇 ["Digital breakthrough 2023"](https://github.com/e0xextazy/cp_sfo/) hackaton - LLM based QA conversation HR-bot
