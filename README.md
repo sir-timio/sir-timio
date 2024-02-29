@@ -1,11 +1,10 @@
 # 👋 Hi, I’m Timur Ionov
-## I’m CV and NLP ML engineer. I'm also a [Kaggle expert](https://www.kaggle.com/sirtimio) and author of @[ai_minds](https://t.me/ai_minds) channel.
+## I’m NLP RnD engineer at [DeepPavlov](https://deeppavlov.ai/). I'm also a [Kaggle expert](https://www.kaggle.com/sirtimio) and author of @[ai_minds](https://t.me/ai_minds) channel.
 
 ## 👨🏻‍💻 I’m currently working on
-- Text recognintion
-- Layout parsing
-- Speech enhancement
-
+- RAG
+- text search
+- 
 ## 🏆 Сompetitions & hacks:
 - 🥇 ["Digital breakthrough 2022"](https://github.com/sir-timio/pochta) championship - Prediction of mail loss, antifraud
 - 🥇 ["Digital breakthrough 2023"](https://github.com/e0xextazy/cp_sfo/) hackaton - LLM based QA conversation HR-bot
