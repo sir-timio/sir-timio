@@ -3,9 +3,10 @@
 
 ## 👨🏻‍💻 I’m currently working on
 - RAG
-- Text search
+- LegalTech
 
 ## 🏆 Сompetitions & hacks:
+- 🥇 "World Youth Festival 2024" hackaton Kamchatsky - fish tracking service and assistant scientist
 - 🥇 ["Digital breakthrough 2022"](https://github.com/sir-timio/pochta) championship - Prediction of mail loss, antifraud
 - 🥇 ["Digital breakthrough 2023"](https://github.com/e0xextazy/cp_sfo/) hackaton - LLM based QA conversation HR-bot
 - 🥈 ["Ivision"](https://github.com/Perpure/Parking-Recognition) - Parking detection service and chat bot
