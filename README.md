@@ -6,16 +6,18 @@
 - LegalTech
 
 ## 🏆 Сompetitions & hacks:
-- 🥇 "World Youth Festival 2024" hackaton Kamchatsky - fish tracking service and assistant scientist
-- 🥇 ["Digital breakthrough 2022"](https://github.com/sir-timio/pochta) championship - Prediction of mail loss, antifraud
-- 🥇 ["Digital breakthrough 2023"](https://github.com/e0xextazy/cp_sfo/) hackaton - LLM based QA conversation HR-bot
-- 🥈 ["Ivision"](https://github.com/Perpure/Parking-Recognition) - Parking detection service and chat bot
-- 🥈 ["AutoNLP"](https://github.com/sir-timio/nlp_itmo) - AutoML NLP multitask by ITMO
+- 🥇 ["World Youth Festival 2024"](https://github.com/sir-timio/neuro-marine) hack - fish tracking and scientis assistant;
+- 🥇 ["Digital breakthrough 2022"](https://github.com/sir-timio/pochta) championship - mail loss antifraud;
+- 🥇 ["Digital breakthrough 2023"](https://github.com/e0xextazy/cp_sfo/) hack - LLM RAG QA conv HR-agent;
+- 🥇 ["My First Data Project"](https://github.com/sir-timio/speech-denoiser) project - speech enhancement project winner;
+- 🥈 ["Ivision"](https://github.com/Perpure/Parking-Recognition) hack - car park detection with tg bot;
+- 🥈 ["AutoNLP"](https://github.com/sir-timio/nlp_itmo) championship - autoML NLP multitask fintech;
+- 🥉 ["Digital breakthrough 2024](https://github.com/Sapf3ar/expo-search) hack - multimodal museum search and label generation.
+
+## 🪿 Kaggle:
 - 🥉 ["HuBMAP"](https://www.kaggle.com/code/sirtimio/infer-yolov8-tta-wbf-55th-place)@kaggle - Segment instances of microvascular structures (54th of 1064)
 - 🥉 ["RSNA 2023"](https://www.kaggle.com/competitions/rsna-2023-abdominal-trauma-detection/overview)@kaggle - Abdominal trauma detection (64th of 1123)
 - 🥉 ["ICR"](https://www.kaggle.com/code/sirtimio/bronze-solution-0-4-lb)@kaggle - Identifying Age-Related Conditions (361th of 6430)
-- ["VK Cup"](https://github.com/sir-timio/vk_cup) - NLP classification (48th of 470) and RecSys (32th of 256)
-- 🥇 ["My First Data Project"](https://github.com/sir-timio/speech-denoiser) - Speech enhancement project winner 
 
 ## 🐈 Pets:
 - [Real-time speech denoiser](https://github.com/sir-timio/speech-denoiser)
