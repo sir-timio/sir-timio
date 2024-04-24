@@ -6,13 +6,13 @@
 - LegalTech
 
 ## 🏆 Сompetitions & hacks:
-- 🥇 ["World Youth Festival 2024"](https://github.com/sir-timio/neuro-marine) hack - fish tracking and scientis assistant;
-- 🥇 ["Digital breakthrough 2022"](https://github.com/sir-timio/pochta) championship - mail loss antifraud;
-- 🥇 ["Digital breakthrough 2023"](https://github.com/e0xextazy/cp_sfo/) hack - LLM RAG QA conv HR-agent;
-- 🥇 ["My First Data Project"](https://github.com/sir-timio/speech-denoiser) project - speech enhancement project winner;
-- 🥈 ["Ivision"](https://github.com/Perpure/Parking-Recognition) hack - car park detection with tg bot;
-- 🥈 ["AutoNLP"](https://github.com/sir-timio/nlp_itmo) championship - autoML NLP multitask fintech;
-- 🥉 ["Digital breakthrough 2024](https://github.com/Sapf3ar/expo-search) hack - multimodal museum search and label generation.
+- 🥇 ["World Youth Festival 2024"](https://github.com/sir-timio/neuro-marine) hack - Fish tracking and scientis assistant
+- 🥇 ["Digital breakthrough 2022"](https://github.com/sir-timio/pochta) championship - Mail loss antifraud
+- 🥇 ["Digital breakthrough 2023"](https://github.com/e0xextazy/cp_sfo/) hack - LLM RAG QA conv HR-agent
+- 🥇 ["My First Data Project"](https://github.com/sir-timio/speech-denoiser) project - Speech enhancement project winner
+- 🥈 ["Ivision"](https://github.com/Perpure/Parking-Recognition) hack - Car park detection with tg bot
+- 🥈 ["AutoNLP"](https://github.com/sir-timio/nlp_itmo) championship - AutoML NLP multitask fintech
+- 🥉 ["Digital breakthrough 2024](https://github.com/Sapf3ar/expo-search) hack - Multimodal museum search and label generation
 
 ## 🪿 Kaggle:
 - 🥉 ["HuBMAP"](https://www.kaggle.com/code/sirtimio/infer-yolov8-tta-wbf-55th-place)@kaggle - Segment instances of microvascular structures (54th of 1064)
