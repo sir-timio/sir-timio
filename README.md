@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Timur Ionov
-## I’m NLP RnD engineer at [DeepPavlov](https://deeppavlov.ai/). I'm also a [Kaggle expert](https://www.kaggle.com/sirtimio) and author of @[ai_minds](https://t.me/ai_minds) channel.
+## I’m NLP researcher at [MTS AI](https://mts.ai/). I'm also a [Kaggle expert](https://www.kaggle.com/sirtimio) and author of @[ai_minds](https://t.me/ai_minds) channel.
 
 ## 👨🏻‍💻 I’m currently working on
-- RAG
-- LegalTech
+- Chat assistant
+- Speech
 
 ## 🏆 Сompetitions & hacks:
 - 🥇 ["World Youth Festival 2024"](https://github.com/sir-timio/neuro-marine) hack - Fish tracking and scientis assistant
