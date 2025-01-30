@@ -5,18 +5,24 @@
 - Chat assistant
 - Speech
 
-## 🏆 Сompetitions & hacks:
-- 🥇 ["World Youth Festival 2024"](https://github.com/sir-timio/neuro-marine) hack - Fish tracking and scientis assistant
-- 🥇 ["Digital breakthrough 2022"](https://github.com/sir-timio/pochta) championship - Mail loss antifraud
-- 🥇 ["Digital breakthrough 2023"](https://github.com/e0xextazy/cp_sfo/) hack - LLM RAG QA conv HR-agent
-- 🥇 ["My First Data Project"](https://github.com/sir-timio/speech-denoiser) project - Speech enhancement project winner
-- 🥈 ["Ivision"](https://github.com/Perpure/Parking-Recognition) hack - Car park detection with tg bot
+## 🏆 Olimpiads & Сompetitions & Hacks :
+- 🥇 ["AIDAO"](https://github.com/sir-timio/aidao/) - [Artificial intelligence and data analysis Olympiad](https://education.yandex.ru/aidao) 
+- 🏅 ["I am a professional" 2024](https://github.com/sir-timio/sir-timio/diplomas/cups&hacks/призер_олимпиады_я_профессионал.pdf) - prize winner, Artificial intelligence olympiad
+----
+- 🥇 ["Digital breakthrough" 2022](https://github.com/sir-timio/pochta) championship - Mail loss antifraud
 - 🥈 ["AutoNLP"](https://github.com/sir-timio/nlp_itmo) championship - AutoML NLP multitask fintech
-- 🥉 ["Digital breakthrough 2024](https://github.com/Sapf3ar/expo-search) hack - Multimodal museum search and label generation
+- 🥉 ["YandexCUP" 2024](https://github.com/sir-timio/ya_cup_24) championship - Self-driving car's trajectory prediction
+-----
+- 🥇 ["World Youth Festival" 2024](https://github.com/sir-timio/neuro-marine) hack - Fish tracking and scientis assistant
+- 🥇 ["Digital breakthrough" 2023](https://github.com/e0xextazy/cp_sfo/) hack - LLM RAG QA conv HR-agent
+- 🥈 ["Ivision"](https://github.com/Perpure/Parking-Recognition) hack - Car park detection with web map and bot
+- 🥉 ["Digital breakthrough" 2024](https://github.com/Sapf3ar/expo-search) hack - Multimodal museum search and label generation
+-----
+- 🥇 ["My First Data Project"](https://github.com/sir-timio/speech-denoiser) project - Speech enhancement project winner
 
 ## 🪿 Kaggle:
 - 🥉 ["HuBMAP"](https://www.kaggle.com/code/sirtimio/infer-yolov8-tta-wbf-55th-place)@kaggle - Segment instances of microvascular structures (54th of 1064)
-- 🥉 ["RSNA 2023"](https://www.kaggle.com/competitions/rsna-2023-abdominal-trauma-detection/overview)@kaggle - Abdominal trauma detection (64th of 1123)
+- 🥉 ["RSNA" 2023](https://www.kaggle.com/competitions/rsna-2023-abdominal-trauma-detection/overview)@kaggle - Abdominal trauma detection (64th of 1123)
 - 🥉 ["ICR"](https://www.kaggle.com/code/sirtimio/bronze-solution-0-4-lb)@kaggle - Identifying Age-Related Conditions (361th of 6430)
 
 ## 🐈 Pets:
