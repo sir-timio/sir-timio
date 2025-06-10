@@ -7,7 +7,7 @@
 
 ## 🏆 Olimpiads & Сompetitions & Hacks :
 - 🥇 ["AIDAO"](https://github.com/sir-timio/aidao/) - [Artificial intelligence and data analysis Olympiad](https://education.yandex.ru/aidao) 
-- 🏅 ["I am a professional" 2024](https://github.com/sir-timio/sir-timio/diplomas/cups&hacks/призер_олимпиады_я_профессионал.pdf) - prize winner, Artificial intelligence olympiad
+- 🏅 ["I am a professional" '24 and '25](https://github.com/sir-timio/sir-timio/diplomas/cups&hacks/призер_олимпиады_я_профессионал.pdf) - prize winner (twice), Artificial intelligence olympiad
 ----
 - 🥇 ["Digital breakthrough" 2022](https://github.com/sir-timio/pochta) championship - Mail loss antifraud
 - 🥈 ["AutoNLP"](https://github.com/sir-timio/nlp_itmo) championship - AutoML NLP multitask fintech
